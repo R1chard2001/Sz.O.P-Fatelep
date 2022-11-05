@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <timber wood="oak" width="15" price="600"/>
+  <timber wood="oak" width="25" price="800"/>
+  <timber wood="beech" width="20" price="750"/>
+  <timber wood="beech" width="25" price="950"/>
+  <timber wood="pine" width="15" price="500"/>
+  <timber wood="pine" width="20" price="620"/>
+  <timber wood="pine" width="25" price="700"/>
+</data>
