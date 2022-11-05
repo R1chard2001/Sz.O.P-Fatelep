@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <user name="admin" password="adminpassword" is_admin="1"/>
+  <user name="user" password="userpassword" is_admin="0"/>
+</users>
